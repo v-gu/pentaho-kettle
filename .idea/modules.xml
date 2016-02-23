@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/plugins/aggregate-rows/aggregate-rows.iml" filepath="$PROJECT_DIR$/plugins/aggregate-rows/aggregate-rows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbdialog/dbdialog.iml" filepath="$PROJECT_DIR$/dbdialog/dbdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/elasticsearch-bulk-insert/elasticsearch-bulk-insert.iml" filepath="$PROJECT_DIR$/plugins/elasticsearch-bulk-insert/elasticsearch-bulk-insert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/engine/engine.iml" filepath="$PROJECT_DIR$/engine/engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/get-previous-row-field/get-previous-row-field.iml" filepath="$PROJECT_DIR$/plugins/get-previous-row-field/get-previous-row-field.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/googleanalytics/googleanalytics.iml" filepath="$PROJECT_DIR$/plugins/googleanalytics/googleanalytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/gp-bulk-loader/gp-bulk-loader.iml" filepath="$PROJECT_DIR$/plugins/gp-bulk-loader/gp-bulk-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/kettle-drools5-plugin/kettle-drools5-plugin.iml" filepath="$PROJECT_DIR$/plugins/kettle-drools5-plugin/kettle-drools5-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/kettle-dummy-plugin/kettle-dummy-plugin.iml" filepath="$PROJECT_DIR$/plugins/kettle-dummy-plugin/kettle-dummy-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/kettle-gpload-plugin/kettle-gpload-plugin.iml" filepath="$PROJECT_DIR$/plugins/kettle-gpload-plugin/kettle-gpload-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/kettle-hl7-plugin/kettle-hl7-plugin.iml" filepath="$PROJECT_DIR$/plugins/kettle-hl7-plugin/kettle-hl7-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/kettle-json-plugin/kettle-json-plugin.iml" filepath="$PROJECT_DIR$/plugins/kettle-json-plugin/kettle-json-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/kettle-openerp-plugin/kettle-openerp-plugin.iml" filepath="$PROJECT_DIR$/plugins/kettle-openerp-plugin/kettle-openerp-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/kettle-palo-plugin/kettle-palo-plugin.iml" filepath="$PROJECT_DIR$/plugins/kettle-palo-plugin/kettle-palo-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/kettle-s3csvinput-plugin/kettle-s3csvinput-plugin.iml" filepath="$PROJECT_DIR$/plugins/kettle-s3csvinput-plugin/kettle-s3csvinput-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/kettle-shapefilereader-plugin/kettle-shapefilereader-plugin.iml" filepath="$PROJECT_DIR$/plugins/kettle-shapefilereader-plugin/kettle-shapefilereader-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/kettle-version-checker/kettle-version-checker.iml" filepath="$PROJECT_DIR$/plugins/kettle-version-checker/kettle-version-checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/kettle-xml-plugin/kettle-xml-plugin.iml" filepath="$PROJECT_DIR$/plugins/kettle-xml-plugin/kettle-xml-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/kettle5-log4j-plugin/kettle5-log4j-plugin.iml" filepath="$PROJECT_DIR$/plugins/kettle5-log4j-plugin/kettle5-log4j-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/lucid-db-bulk-loader/lucid-db-bulk-loader.iml" filepath="$PROJECT_DIR$/plugins/lucid-db-bulk-loader/lucid-db-bulk-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/lucid-db-streaming-loader/lucid-db-streaming-loader.iml" filepath="$PROJECT_DIR$/plugins/lucid-db-streaming-loader/lucid-db-streaming-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/ms-access-bulk-loader/ms-access-bulk-loader.iml" filepath="$PROJECT_DIR$/plugins/ms-access-bulk-loader/ms-access-bulk-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/pdi-pur-plugin/pdi-pur-plugin.iml" filepath="$PROJECT_DIR$/plugins/pdi-pur-plugin/pdi-pur-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pentaho-kettle.iml" filepath="$PROJECT_DIR$/pentaho-kettle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/salesforce/salesforce.iml" filepath="$PROJECT_DIR$/plugins/salesforce/salesforce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/ssh2-plugin/ssh2-plugin.iml" filepath="$PROJECT_DIR$/plugins/ssh2-plugin/ssh2-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/star-modeler/star-modeler.iml" filepath="$PROJECT_DIR$/plugins/star-modeler/star-modeler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui/ui.iml" filepath="$PROJECT_DIR$/ui/ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/xml-input/xml-input.iml" filepath="$PROJECT_DIR$/plugins/xml-input/xml-input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/xml-input-stream/xml-input-stream.iml" filepath="$PROJECT_DIR$/plugins/xml-input-stream/xml-input-stream.iml" />
+    </modules>
+  </component>
+</project>
